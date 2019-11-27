@@ -95,34 +95,69 @@ Funciones para poder hacer análisis de datos básico con las siguientes operaci
 * Valor Mínimo
 * Valor Maximo
 
+Función que regresa la Mediana de una matriz
 ```bash
-
  matriz[0][0] = 2;
  matriz[1][0] = 4;
  matriz[2][0] = 6;
 
-// Función que regresa la Mediana de una matriz
 getMedian(matriz); 
-
-// Función que regresa la Moda de una matriz
-getModa(matriz);
-
-// Función que regresa la Media de una matriz
-getMedia(matriz);
-
-// Función que regresa la Varianza de una matriz
-getVar(matriz);
-
-// Función que regresa la Desviación Estándar de una matriz
-getStdDev(matriz);
-
-// Función que regresa el Valor Mínimo de una matriz
-getMin(matriz);
-
-// Función que regresa el Valor Máximo de una matriz
-getMax(matriz);
-
 ```
+
+Función que regresa la Moda de una matriz
+```bash
+ matriz[0][0] = 2;
+ matriz[1][0] = 4;
+ matriz[2][0] = 6;
+
+getModa(matriz);
+```
+
+Función que regresa la Media de una matriz
+```bash
+ matriz[0][0] = 2;
+ matriz[1][0] = 4;
+ matriz[2][0] = 6;
+
+getMedia(matriz);
+```
+
+Función que regresa la Varianza de una matriz
+```bash
+ matriz[0][0] = 2;
+ matriz[1][0] = 4;
+ matriz[2][0] = 6;
+
+getVar(matriz);
+```
+
+Función que regresa la Desviación Estándar de una matriz
+```bash
+ matriz[0][0] = 2;
+ matriz[1][0] = 4;
+ matriz[2][0] = 6;
+
+getStdDev(matriz);
+```
+
+Función que regresa el Valor Mínimo de una matriz
+```bash
+ matriz[0][0] = 2;
+ matriz[1][0] = 4;
+ matriz[2][0] = 6;
+
+getMin(matriz);
+```
+
+Función que regresa el Valor Máximo de una matriz
+```bash
+ matriz[0][0] = 2;
+ matriz[1][0] = 4;
+ matriz[2][0] = 6;
+
+getMax(matriz);
+```
+
 
 Declaración del main:
 ```bash
