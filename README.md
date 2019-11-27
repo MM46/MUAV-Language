@@ -31,10 +31,9 @@ pip install matplotlib
 
 
 Para compilar el archivo de la gramática (.g4):
-
-1. Das click en el botón derecho del archivo MUAV.g4
-
-2. Das click en la opcion de "Generate ANTLR recognizer"
+Verificar que el ambiente virtual de Python esta configurado de la manera apropiada, cargado con la gramatica y las librerias mencionadas anteriormente.
+1. Escribir en main.py el nombre del archivo .MUAV dentro del filepath definido en el main.
+2. Hacer click derecho en main.py y ejecutarlo.
 
 
 
