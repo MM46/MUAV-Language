@@ -93,69 +93,70 @@ Funciones para poder hacer análisis de datos básico con las siguientes operaci
 * Varianza
 * Desviación Estándar
 * Valor Mínimo
-* Valor Maximo
+* Valor Máximo
 
-Función que regresa la Mediana de una matriz
+Función que regresa la Mediana de un arreglo:
 ```bash
- matriz[0][0] = 2;
- matriz[1][0] = 4;
- matriz[2][0] = 6;
+ arreglo[0] = 2;
+ arreglo[1] = 4;
+ arreglo[2] = 6;
 
-getMedian(matriz); 
+getMedian(arreglo); 
 ```
 
-Función que regresa la Moda de una matriz
+Función que regresa la Moda de un arreglo:
 ```bash
- matriz[0][0] = 2;
- matriz[1][0] = 4;
- matriz[2][0] = 6;
+ arreglo[0] = 2;
+ arreglo[1] = 4;
+ arreglo[2] = 6;
 
-getModa(matriz);
+getModa(arreglo);
 ```
 
-Función que regresa la Media de una matriz
+Función que regresa la Media de un arreglo:
 ```bash
- matriz[0][0] = 2;
- matriz[1][0] = 4;
- matriz[2][0] = 6;
+ arreglo[0] = 2;
+ arreglo[1] = 4;
+ arreglo[2] = 6;
 
-getMedia(matriz);
+getMedia(arreglo);
 ```
 
-Función que regresa la Varianza de una matriz
+Función que regresa la Varianza de un arreglo:
 ```bash
- matriz[0][0] = 2;
- matriz[1][0] = 4;
- matriz[2][0] = 6;
+ arreglo[0] = 2;
+ arreglo[1] = 4;
+ arreglo[2] = 6;
 
-getVar(matriz);
+getVar(arreglo);
 ```
 
-Función que regresa la Desviación Estándar de una matriz
+Función que regresa la Desviación Estándar de un arreglo:
 ```bash
- matriz[0][0] = 2;
- matriz[1][0] = 4;
- matriz[2][0] = 6;
 
-getStdDev(matriz);
+ arreglo[0] = 2;
+ arreglo[1] = 4;
+ arreglo[2] = 6;
+
+getStdDev(arreglo);
 ```
 
-Función que regresa el Valor Mínimo de una matriz
+Función que regresa el Valor Mínimo de un arreglo:
 ```bash
- matriz[0][0] = 2;
- matriz[1][0] = 4;
- matriz[2][0] = 6;
+ arreglo[0] = 2;
+ arreglo[1] = 4;
+ arreglo[2] = 6;
 
-getMin(matriz);
+getMin(arreglo);
 ```
 
-Función que regresa el Valor Máximo de una matriz
+Función que regresa el Valor Máximo de un arreglo:
 ```bash
- matriz[0][0] = 2;
- matriz[1][0] = 4;
- matriz[2][0] = 6;
+ arreglo[0] = 2;
+ arreglo[1] = 4;
+ arreglo[2] = 6;
 
-getMax(matriz);
+getMax(arreglo);
 ```
 
 
